@@ -4,7 +4,12 @@ A simple caffee menu.
 In this projet I focus on basic css syntax.
 Learned about selectors and some basic properties such as: margin,padding,color ,...
 
-Wild Header | Crazy Header | Another Header?
------------- | ------------- | -------------
-Your content can | be here, and it | can be here....
-And here. | Okay. | I think we get it.
+```
+// this is multi-line code:
+
+function anotherExample(firstLine, lastLine) {
+  if (firstLine == '```' && lastLine == '```') {
+    return multiLineCode;
+  }
+}
+```
