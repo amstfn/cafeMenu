@@ -3,13 +3,3 @@ this is my second web project.
 A simple caffee menu.
 In this projet I focus on basic css syntax.
 Learned about selectors and some basic properties such as: margin,padding,color ,...
-
-```
-// this is multi-line code:
-
-function anotherExample(firstLine, lastLine) {
-  if (firstLine == '```' && lastLine == '```') {
-    return multiLineCode;
-  }
-}
-```
